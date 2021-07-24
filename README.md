@@ -13,7 +13,15 @@
 ```bash
 ├── 2011_09_26
 │   ├── 2011_09_26_synced
+│   │    ├── oxts 
+│   │    ├── label 
+│   │    ├── points 
+│   │    ├── camera 1~4 
+│   │    ├── camtoimu.txt
+│   │    ├── imutovel.txt
+│   │    └── camtovel.txt
 │   └── 2011_09_26_extract
+│        └── oxts 
 ├── kitti2bag.py
 └── util.py
 ``` 
