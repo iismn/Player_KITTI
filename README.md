@@ -5,7 +5,10 @@
 - Semantic KITTI ROS BAG (with GPS/IMU for LIO-SAM)
 
 ## <div align=left>:heavy_plus_sign:REPO CONFIG</div>  
-### kitti2bag
+### kitti2bag.py
+- Main PKG
+### utils.py
+- Veloyne PCL Label Packing
 * File Directory Consist with
 ```bash
 ├── 2011_09_26
