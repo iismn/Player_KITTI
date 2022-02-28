@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=SEMANTIC%20KITTI%20BAG&fontSize=20)
 
 ## <div align=left>REPO INFO</div>  
-- KAIST IRiS Lab. Autonomous Vehicle "PHAROS" 
 - Semantic KITTI ROS BAG (with GPS/IMU for LIO-SAM)
 
 ## <div align=left>REPO CONFIG</div>  
