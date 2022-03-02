@@ -1,0 +1,9 @@
+latex/
+html/
+.tags*
+doc
+build/
+bin/
+*.sublime-workspace
+*.pyc
+CMakeLists.txt.user
