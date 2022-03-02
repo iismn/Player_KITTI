@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=KITTI%20BAG&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=KITTI%20BAG%20RECORDER&fontSize=20)
 
 ## <div align=left>REPO INFO</div>  
 - Raw/Synced KITTI ROS BAG (with GPS/IMU for LIO-SAM)
