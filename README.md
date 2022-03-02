@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=SEMANTIC%20KITTI%20BAG&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=KITTI%20PLAYER&fontSize=20)
 
 ## <div align=left>REPO INFO</div>  
-- Semantic KITTI ROS BAG (with GPS/IMU for LIO-SAM)
+- KITTI Raw Dataset Player
+- Initial Release (v1.0.0)
 
 ## <div align=left>REPO CONFIG</div>  
 ### kitti2bag.py
