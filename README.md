@@ -2,7 +2,8 @@
 
 ## <div align=left>REPO INFO</div>  
 - Semantic KITTI ROS1 BAG (with GPS/IMU for LIO-SAM)
-
+- RealTime Player (Branch: Player)
+- Bag Recoder (Branch: Recoder)
 ## <div align=left>REPO CONFIG</div>  
 ### kitti2bag.py
 - Main PKG
