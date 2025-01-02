@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=SEMANTIC%20KITTI%20BAG&fontSize=20)
 
 ## <div align=left>REPO INFO</div>  
-- Semantic KITTI ROS BAG (with GPS/IMU for LIO-SAM)
+- Semantic KITTI ROS1 BAG (with GPS/IMU for LIO-SAM)
 
 ## <div align=left>REPO CONFIG</div>  
 ### kitti2bag.py
